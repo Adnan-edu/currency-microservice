@@ -34,6 +34,9 @@ All the instances would register with the naming server or service registry. Whe
 
 ## Spring Cloud Netflix Eureka
 
+<img width="1000" alt="Screen Shot 2022-08-04 at 8 19 12 pm" src="https://user-images.githubusercontent.com/44027826/182824150-dcb8dafb-595d-4463-8bd9-89c314378242.png">
+
+
 - For creating a naming server we can use spring-cloud-netflix Eureka Server. To avoid eureka server to register with itself, we have to add few attributes in the application.properties file
 
 
