@@ -1,14 +1,6 @@
 
-# Currency Microservice
 
-A brief description of what this project does and who it's for
-
-
-
-
-
-
-
+# Currency Microservice 👋
 
 ## 🛠 Built With
 Spring Boot, Spring Cloud, Spring Cloud Gateway, Distributed Tracing with Zipkin,
@@ -16,7 +8,7 @@ Load balancing with Eureka-Feign-Spring Cloud Load Balancer, Resilience4j (Circu
 
 
 
-## Currency Conversion Microservice
+## Currency Conversion Microservice 🚀
 
 Currency conversion microservice invoke the currency exchange microservice and do the calculation after getting the response.
 
